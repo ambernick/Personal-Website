@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+h2 {
+    color: #eb9694
+}
+
+body {
+    background-color: #8f5b0f;
+}
+
+a:hover {
+color: black;
+}
+
+a:visited {
+    color: black;
+  }
+
+  a {
+    color: red;
+  }
+
+  a:active {
+    color: #110f8f;
+  }
