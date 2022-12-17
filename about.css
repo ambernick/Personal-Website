@@ -4,13 +4,23 @@ h1 {
 }
 
 h2 {
-    color: #eb9694
+    color: #eb9694;
+    text-align: center;
 }
 
 body {
-    background-color: #8f5b0f;
+    background-color: #fff7e9;
 }
 
+.tab {
+ text-align: center ;
+}
+
+.fillerTwo {
+  font-style: oblique;
+  color: #110f8f;
+  font-size: x-large;
+}
 a:hover {
 color: black;
 }
